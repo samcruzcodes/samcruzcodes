@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samcruzcodes
 - 👀 I’m interested in game and web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me email
 
